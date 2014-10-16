@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bok:home|Door43 (bok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bok|d43-bok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bok/archive/master.zip|d43-bok.zip]]
+
+**Recent Changes**
+{{changes>ns = bok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bok|Ethnologue data]]
+
